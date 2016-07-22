@@ -1,8 +1,8 @@
 <?php
 use \Firebase\JWT\JWT;
 class JWToken{
-	private $secretKey = 'LIKEfrnd!@#$';
-	private $issuingDomain = 'likefrnd.com';
+	private $secretKey = 'PMT!@#$';
+	private $issuingDomain = 'prizemoneytree.com';
 	
 	
 	

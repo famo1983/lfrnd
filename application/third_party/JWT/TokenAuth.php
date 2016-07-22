@@ -2,7 +2,7 @@
 
 class TokenAuth extends CI_Controller {
 
-    private $secretKey = 'LIKEfrnd!@#$';
+    private $secretKey = 'PMT!@#$';
     public $JWToken;
 
     public function __construct() {

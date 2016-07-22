@@ -18,7 +18,7 @@ class User extends CI_Controller{
     
     public function you_view()
     {
-        $this->load->view('user/index');
+        
         
     }
 }
